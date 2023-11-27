@@ -1,0 +1,386 @@
+.container .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+}
+
+.container .overlap-group {
+  width: 1159px;
+  height: 1132px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background : color( rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255))
+}
+
+.container .logo {
+  position: absolute;
+  width: 630px;
+  height: 612px;
+  top: 149px;
+  left: 880px;
+  background-image: url("pizza.png");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+#buat-akun{
+  font-size: 4rem;
+}
+.container .clock-perspective {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 339px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.container .chart-perspective {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 381px;
+  left: 490px;
+  object-fit: cover;
+}
+
+.container .message-perspective {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 1px;
+  left: 198px;
+  object-fit: cover;
+}
+
+.container .calendar-perspective {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 530px;
+  left: 292px;
+  object-fit: cover;
+}
+
+.container .text-wrapper {
+  position: absolute;
+  top: 324px;
+  left: 146px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #163F6B;
+  font-size: 21.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .ayo-pantau-progress {
+  position: absolute;
+  top: 382px;
+  left: 146px;
+  font-family: "Poppins-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 42.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .memantau-setiap {
+  position: absolute;
+  top: 536px;
+  left: 146px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .button-daftar {
+  left: 146px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 618px;
+}
+
+.container .daftar-wrapper {
+  display: flex;
+  width: 170.44px;
+  height: 44.78px;
+  align-items: center;
+  justify-content: center;
+  gap: 8.89px;
+  padding: 8.89px 54.22px;
+  position: relative;
+  background-color: #5d5fef;
+  border-radius: 13.33px;
+  overflow: hidden;
+}
+
+.container .daftar {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+  margin-top: -0.89px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 17.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .button-masuk {
+  left: 356px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 618px;
+}
+
+.container .masuk-wrapper {
+  display: flex;
+  width: 170.44px;
+  height: 44.78px;
+  align-items: center;
+  justify-content: center;
+  gap: 8.89px;
+  padding: 8.89px 54.22px;
+  position: relative;
+  border-radius: 13.33px;
+  overflow: hidden;
+  border: 0.89px solid;
+  border-color: #5d5fef;
+}
+
+.container .masuk {
+  color: #5d5fef;
+  position: relative;
+  width: fit-content;
+  margin-top: -0.89px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 17.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .header-landingpage {
+  display: flex;
+  width: 897px;
+  height: 40px;
+  align-items: center;
+  gap: 278px;
+  position: absolute;
+  top: 34px;
+  left: 146px;
+}
+
+.container .text-monitore {
+  position: relative;
+  width: 140px;
+  height: 40px;
+  margin-top: -1px;
+  font-family: "Poppins-Bold", Helvetica;
+  color: #000000;
+  font-size: 26.7px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .navbar {
+  display: flex;
+  width: 479px;
+  height: 27px;
+  align-items: center;
+  gap: 42px;
+  position: relative;
+}
+
+.container .text-beranda {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  left: 250px;
+}
+.container .text-akademik {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  left: 280px;
+}
+
+.container .text-notifikasi {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  left: 310px;
+}
+
+.container .text-percakapan {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  left: 330px;
+}
+
+
+
+.container .text-wrapper-4 {
+  position: absolute;
+  top: 95px;
+  left: 146px;
+  font-family: "Inter-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 24.9px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.container .line {
+  position: absolute;
+  width: 1px;
+  height: 107px;
+  top: 58px;
+  left: 316px;
+}
+
+.container .text-wrapper-5 {
+  position: absolute;
+  top: 85px;
+  left: 366px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #8e8080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-6 {
+  left: 444px;
+  position: absolute;
+  top: 85px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #8e8080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-7 {
+  left: 521px;
+  position: absolute;
+  top: 85px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #8e8080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.container .p {
+  position: absolute;
+  top: 116px;
+  left: 366px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #8e8080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.container .text-wrapper-8 {
+  position: absolute;
+  top: 116px;
+  left: 1181px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #8e8080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.container .img {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 3px;
+  left: 3px;
+}
+.container .footer {
+  position: absolute;
+  width: 1519px;
+  height: 222px;
+  top: 910px;
+  left: 0;
+  background-color: #000000;
+}
+.container .ig-wrapper {
+  left: 1181px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 83px;
+  background-color: #8e8080;
+  border-radius: 13.33px;
+}
+
+.container .twitter-wrapper {
+  left: 1222px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 83px;
+  background-color: #8e8080;
+  border-radius: 13.33px;
+}
+
+.container .youtube-wrapper {
+  left: 1261px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 83px;
+  background-color: #8e8080;
+  border-radius: 13.33px;
+}

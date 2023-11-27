@@ -1,0 +1,598 @@
+.container {
+    position: absolute;
+
+}
+
+.container .div {
+    background-color: #ffffff;
+    width: 1510px;
+    height: 1150px;
+    position: absolute;
+}
+
+  .container .group-footer {
+      position: absolute;
+      width: 1519px;
+      height: 222px;
+      top: 1010px;
+      left: 0;
+  }
+
+  .container .overlap-group-footer {
+      position: relative;
+      width: 1519px;
+      height: 222px;
+      background-color: #000000;
+  }
+
+  .container .monitoree-footer {
+      position: absolute;
+      top: 96px;
+      left: 146px;
+      font-family: "Inter-Bold", Helvetica;
+      color: #ffffff;
+      font-size: 24.9px;
+      font-weight: 700;
+      letter-spacing: 0;
+      line-height: normal;
+  }
+
+
+  .container .kontak-footer {
+      position: absolute;
+      top: 86px;
+      left: 366px;
+      font-family: "Inter-Regular", Helvetica;
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+  }
+
+  .container .tautan-footer {
+      top: 86px;
+      left: 444px;
+      position: absolute;
+      font-family: "Inter-Regular", Helvetica;
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+  }
+
+  .container .tautan-eksternal-footer {
+      top: 86px;
+      left: 521px;
+      position: absolute;
+      font-family: "Inter-Regular", Helvetica;
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+  }
+
+  .container .copyright {
+      position: absolute;
+      top: 116px;
+      left: 366px;
+      font-family: "Inter-Regular", Helvetica;
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+  }
+
+  .container .gmail {
+      position: absolute;
+      top: 116px;
+      left: 1081px;
+      font-family: "Inter-Regular", Helvetica;
+      font-weight: 400;
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+  }
+
+  .container .instagram-wrapper {
+      position: absolute;
+      width: 27px;
+      height: 27px;
+      top: 83px;
+      left: 1081px;
+      background-color: #ffffff;
+      border-radius: 13.33px;
+  }
+
+  .container .img-footer {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 3px;
+      left: 3px;
+  }
+
+  .container .twitter-wrapper {
+      position: absolute;
+      width: 27px;
+      height: 27px;
+      top: 83px;
+      left: 1122px;
+      background-color: #ffffff;
+      border-radius: 13.33px;
+  }
+
+  .container .youtube-wrapper {
+      position: absolute;
+      width: 27px;
+      height: 27px;
+      top: 83px;
+      left: 1163px;
+      background-color: #ffffff;
+      border-radius: 13.33px;
+  }
+
+.container .overlap-group {
+    position: absolute;
+    width: 339px;
+    height: 62px;
+    top: 175px;
+    left: 127px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.container .ion-person-sharp-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 11px;
+    left: 14px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.container .ion-person-sharp {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 5px;
+    left: 5px;
+}
+
+.container .dr-hanif-nabil-s-ked {
+    position: absolute;
+    width: 219px;
+    height: 18px;
+    top: 21px;
+    left: 62px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.container .overlap-2 {
+    position: absolute;
+    width: 339px;
+    height: 62px;
+    top: 247px;
+    left: 127px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.container .dr-fadhil-pradipta-s {
+    position: absolute;
+    width: 259px;
+    height: 18px;
+    top: 21px;
+    left: 62px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.container .overlap-3 {
+    position: absolute;
+    width: 720px;
+    height: 686px;
+    top: 168px;
+    left: 516px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.container .overlap-4 {
+    position: absolute;
+    width: 696px;
+    height: 42px;
+    top: 619px;
+    left: 12px;
+    background-color: #f4f4f4;
+    border-radius: 9px;
+}
+
+.container .div-wrapper {
+    position: absolute;
+    width: 70px;
+    height: 29px;
+    top: 6px;
+    left: 614px;
+    background-color: #000000;
+    border-radius: 9px;
+}
+
+.container .text-wrapper-6 {
+    position: absolute;
+    width: 29px;
+    height: 17px;
+    top: 5px;
+    left: 21px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .overlap-group-wrapper {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    top: 10px;
+    left: 583px;
+}
+
+.container .overlap-group-2 {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    background-color: #ffffff;
+    border-radius: 11.05px;
+}
+
+.container .text-wrapper-7 {
+    position: absolute;
+    width: 14px;
+    height: 23px;
+    top: 0;
+    left: 4px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .img-wrapper {
+    position: absolute;
+    width: 37px;
+    height: 38px;
+    top: 72px;
+    left: 22px;
+    background-color: #ffffff;
+    border-radius: 18.5px/19px;
+}
+
+.container .ion-person-sharp-2 {
+    top: 5px;
+    position: absolute;
+    width: 28px;
+    height: 29px;
+    left: 5px;
+}
+
+.container .group-2 {
+    position: absolute;
+    width: 37px;
+    height: 38px;
+    top: 233px;
+    left: 22px;
+    background-color: #ffffff;
+    border-radius: 18.5px/19px;
+}
+
+.container .group-3 {
+    position: absolute;
+    width: 37px;
+    height: 38px;
+    top: 158px;
+    left: 661px;
+    background-color: #ffffff;
+    border-radius: 18.5px/19px;
+}
+
+.container .ion-person-sharp-3 {
+    top: 4px;
+    position: absolute;
+    width: 28px;
+    height: 29px;
+    left: 5px;
+}
+
+.container .overlap-5 {
+    position: absolute;
+    width: 191px;
+    height: 32px;
+    top: 73px;
+    left: 64px;
+    background-color: #e8daf5;
+    border-radius: 13px 13px 13px 0px;
+}
+
+.container .text-wrapper-8 {
+    position: absolute;
+    width: 169px;
+    top: 6px;
+    left: 14px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .overlap-6 {
+    position: absolute;
+    width: 226px;
+    height: 47px;
+    top: 220px;
+    left: 64px;
+    background-color: #e8daf5;
+    border-radius: 13px 13px 13px 0px;
+}
+
+.container .text-wrapper-9 {
+    position: absolute;
+    width: 202px;
+    top: 6px;
+    left: 14px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .overlap-7 {
+    position: absolute;
+    width: 235px;
+    height: 67px;
+    top: 123px;
+    left: 423px;
+}
+
+.container .rectangle {
+    position: absolute;
+    width: 219px;
+    height: 67px;
+    top: 0;
+    left: 16px;
+    background-color: #f4eed9;
+    border-radius: 13px 13px 0px 13px;
+}
+
+.container .text-wrapper-10 {
+    position: absolute;
+    width: 226px;
+    top: 5px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .overlap-8 {
+    position: absolute;
+    width: 88px;
+    height: 23px;
+    top: 13px;
+    left: 316px;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.container .text-wrapper-11 {
+    position: absolute;
+    top: 3px;
+    left: 25px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .chat-with-dr-hanif {
+    position: absolute;
+    top: 125px;
+    left: 516px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .frame {
+    position: absolute;
+    width: 137px;
+    height: 39px;
+    top: 122px;
+    left: 146px;
+    background-image: url(./img/rectangle-79.svg);
+    background-size: 100% 100%;
+}
+
+.container .text-wrapper-12 {
+    position: absolute;
+    top: 7px;
+    left: 25px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .header {
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 34px;
+    left: 146px;
+    background-color: transparent;
+}
+
+.container .headerr {
+    display: flex;
+    width: 1089.78px;
+    height: 44.44px;
+    align-items: center;
+    gap: 23px;
+    position: relative;
+}
+
+.container .header-frame {
+    width: 897px;
+    height: 40px;
+    gap: 278px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.container .wrapper-monitore {
+    position: relative;
+    width: 140px;
+    height: 40px;
+    margin-top: -1px;
+    font-family: "Poppins-Bold", Helvetica;
+    color: #000000;
+    font-size: 26.7px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.container .header-frame-2 {
+    width: 479px;
+    height: 27px;
+    gap: 42px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.container .wrapper-beranda {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 17.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    left: 200px;
+}
+
+.container .wrapper-akademik {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 17.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    left: 200px;
+}
+
+.container .wrapper-percakapan {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    left: 200px;
+}
+
+.container .wrapper-aktivitas {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 17.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    left: 200px;
+}
+
+.container .wrapper-keluar {
+    width: 169.78px;
+    height: 25px;
+    justify-content: center;
+    gap: 8.89px;
+    padding: 8.89px 54.22px;
+    border-radius: 13.33px;
+    overflow: hidden;
+    border: 0.89px solid;
+    border-color: #000000;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 200px;
+}
+
+.container .text-wrapper-keluar {
+    position: relative;
+    width: 59px;
+    height: 27px;
+    margin-top: -1.06px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17.8px;
+    letter-spacing: 0;
+    line-height: normal;
+}

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="style.css" />
+
+  <title>landing-page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container">
+    <div class="overlap-group-wrapper">
+      <div class="overlap-group">
+        <header class="header-landingpage">
+          <div class="text-monitore">Monitoree</div>
+          <div class="navbar">
+            <div class="text-beranda">Beranda</div>
+            <div class="text-akademik">Akademik</div>
+            <div class="text-notifikasi">Aktivitas</div>
+            <div class="text-percakapan">Percakapan</div>
+          </div>
+        </header>
+
+        <div class="logo">
+          <img class="clock-perspective" src="logojam.png" />
+          <img class="chart-perspective" src="logochart.png" />
+          <img class="message-perspective" src="logopesan.png" />
+          <img class="calendar-perspective" src="logokalender.png" />
+        </div>
+        <div class="text-wrapper">Halo, Selamat Datang</div>
+        <p class="ayo-pantau-progress">Ayo pantau progress <br />pembelajaran anak!</p>
+        <p class="memantau-setiap">Memantau setiap progress pembelajaran anak<br />merupakan hak setiap orang tua</p>
+        <div class="button-daftar">
+
+          <button type="button" class="daftar-wrapper" data-bs-toggle="modal" data-bs-target="#modalDaftar">
+            <div class="daftar">Daftar</div>
+          </button>
+
+          <div class="modal fade" id="modalDaftar" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <div class="container text-center">
+                    <div class="row">
+                      <div class="col-5"
+                        style="background-image: url(daftar.png);background-size: 100%; background-repeat: no-repeat;">
+
+                      </div>
+                      <div class="col-7">
+                        <div class="row">
+
+                          <div class="col-12 text-end">
+                            <button type="button" class="btn-close bg-danger" data-bs-dismiss="modal"
+                              aria-label="Close"></button>
+                          </div>
+                          <div class="col-12 ">
+                            <div class="">
+                              <h1 style="color: #163F6B;">Buat Akun</h1>
+                              <p class="text-secondary">gunakan data anak</p>
+                            </div>
+                          </div>
+                          <div class="col-4">
+                          </div>
+                          <div class="col-12 text-start">
+                            <div class="mb-2">
+                              <label for="exampleFormControlInput1" class="form-label">Nama</label>
+                              <input style="background-color: #47475a3e; color: black" type="text" class="form-control"
+                                id="exampleFormControlInput1">
+                            </div>
+                            <div class="mb-2  mt-2">
+                              <label for="exampleFormControlInput1" class="form-label">NIM</label>
+                              <input style="background-color: #47475a3e; color: black" type="text" class="form-control"
+                                id="exampleFormControlInput1">
+                            </div>
+                            <label for="inputPassword5" class="form-label mt-2">Pin</label>
+                            <input style="border-color: #163F6B;" type="password" id="inputPassword5"
+                              class="form-control" aria-describedby="passwordHelpBlock">
+                            <div id="passwordHelpBlock" class="form-text">
+                              Pin Harus Berupa Angka 6 Digit
+                            </div>
+                            <button style="background-color: #163F6B; color: white;" type="button"
+                              class="btn  col-12 mt-3" data-bs-dismiss="modal">Daftar</button>
+                          </div>
+
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                  <div class="container text-center">
+
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="button-masuk">
+          <button type="button" class="masuk-wrapper" data-bs-toggle="modal" data-bs-target="#modalMasuk">
+            <div class="masuk">Masuk</div>
+          </button>
+          <div class="modal fade" id="modalMasuk" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalLabel">Login</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <label for="inputPassword5" class="form-label">Pin</label>
+                  <input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
+                  <div id="passwordHelpBlock" class="form-text">
+                    Pin Berupa Angka 6 Digit
+                  </div>
+                  <a type="button" style="font-size:small;">lupa pin</a>
+                </div>
+                <div class="modal-footer">
+                  <a href="homepage.html" style="background-color: #5D5FEF; color: white;"
+                    class="btn btn-primary">Login</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <footer class="footer">
+          <div class="text-wrapper-4">Monitoree</div>
+          <img class="line" src="img/line-2.svg" />
+          <div class="text-wrapper-5">Kontak</div>
+          <div class="text-wrapper-6">Tautan</div>
+          <div class="text-wrapper-7">Tautan Eksternal</div>
+          <p class="p">©Monitoree 2023. All right reserved</p>
+          <div class="text-wrapper-8">Support: monitoree@gmail.com</div>
+          <div class="ig-wrapper"><img class="img" src="ig.png" /></div>
+          <div class="twitter-wrapper"><img class="img" src="twit.png" /></div>
+          <div class="youtube-wrapper"><img class="img" src="yt.png" /></div>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
